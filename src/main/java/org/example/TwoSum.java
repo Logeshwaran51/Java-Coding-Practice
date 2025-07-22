@@ -38,5 +38,7 @@ public class TwoSum {
             map.put(array.get(i), i);
 
         }
+
+        System.out.println("There is No two value equivalent to sum");
     }
 }
