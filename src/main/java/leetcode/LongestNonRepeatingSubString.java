@@ -1,4 +1,4 @@
-package org.example;
+package leetcode;
 import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.Set;
